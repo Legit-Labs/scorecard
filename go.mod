@@ -45,7 +45,7 @@ require (
 )
 
 require (
-	github.com/caarlos0/env/v6 v6.9.1
+	github.com/caarlos0/env/v6 v6.10.0
 	github.com/onsi/ginkgo/v2 v2.1.3
 	sigs.k8s.io/release-utils v0.6.0
 )
