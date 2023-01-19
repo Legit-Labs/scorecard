@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.45.2
-	github.com/google/addlicense v1.0.0
+	github.com/google/addlicense v1.1.1
 	github.com/google/ko v0.10.1-0.20220221173235-a36ea50a9eca
 	github.com/goreleaser/goreleaser v1.6.3
 	github.com/naveensrinivasan/stunning-tribble v0.4.2
