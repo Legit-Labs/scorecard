@@ -40,7 +40,7 @@ require (
 	google.golang.org/genproto v0.0.0-20220401170504-314d38edb7de
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	mvdan.cc/sh/v3 v3.4.3
 )
 
